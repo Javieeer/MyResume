@@ -1,0 +1,274 @@
+{
+    "basics": {
+        "name": "Javier Alejandro Zapata Ramos",
+        "label": "Junior Programmer",
+        "picture": "",
+        "email": "jaaviieruber@gmail.com",
+        "phone": "(+61) 041 527 7982",
+        "website": "tatisMeAma.com",
+        "summary": "Junior programer, Mechatronic",
+        "location": {
+            "address": "562 Inkerman rd",
+            "postalCode": "VIC 3161",
+            "city": "Melbourne",
+            "countryCode": "VIC",
+            "region": "Victoria"
+        },
+        "profiles": [
+            {
+                "network": "twitter",
+                "username": "@JavierZ_py"
+            },
+            {
+                "network": "instagram",
+                "url": "https://www.instagram.com/javier.zapata99/?hl=es"
+            },
+            {
+                "network": "",
+                "username": ""
+            },
+            {
+                "network": "github",
+                "username": "Javieeer"
+            },
+            {
+                "network": "linkedin",
+                "url": "https://www.linkedin.com/in/javieerzapata/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "AMP Soluciones SAS",
+            "position": "Maintenance Technician",
+            "website": "https://ampsoluciones.co/",
+            "startDate": "2017-08-04",
+            "summary": "General maintenance of machines of production line",
+            "location": "Tolima, Colombia",
+            "highlights": ["Started the company"]
+        },
+        {
+            "name": "MAG Soluciones Automaticas",
+            "position": "Maintenance Technician",
+            "website": "https://www.magsolucionesautomaticas.com/",
+            "startDate": "2022-01-19",
+            "endDate": "2014-01-01",
+            "summary": "Program PLC and assembling the machines to pack rice",
+            "location": "Tolima, Colombia",
+            "highlights": ["Started the company"]
+        },
+        {
+            "name": "MET Group SAS",
+            "position": "Practicant mechatronic",
+            "website": "https://metgroupsas.com/",
+            "summary": "Special maintenance to machines of production line and try of routers of buses",
+            "location": "Risaralda, Colombia",
+            "highlights": ["Started the company"]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "SpaceCube",
+            "position": "Volunteer",
+            "website": "https://spacecube.com/",
+            "endDate": "2023-07-08",
+            "summary": "Assemble of cubes and put the walls according to plans",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "SENA",
+            "area": "Tecnologic of design and integrations of automation and mechatronic",
+            "studyType": "Technologic Degree",
+            "startDate": "2017-01-01",
+            "endDate": "2019-03-01",
+            "gpa": "4.0",
+            "courses": ["DB1101 - Basic SQL"]
+        },
+        {
+            "institution": "Unad",
+            "area": "Electronic Engineer",
+            "studyType": "Engineer degree",
+            "startDate": "2016-01-01",
+            "endDate": "",
+            "gpa": "4.0",
+            "courses": ["DB1101 - Basic SQL"]
+        }
+    ],
+    "awards": [
+        {
+            "title": "/* Award */",
+            "date": "/* 2014-11-01 */",
+            "awarder": "/* Company */",
+            "summary": "/* There is no spoon. */"
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
+    ],
+    "skills": [
+        {
+            "name": "React",
+            "level": "Intermediate",
+            "value": 40,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Python",
+            "level": "Intermediate",
+            "value": 60,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Javascript",
+            "level": "Intermediate",
+            "value": 60,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "SQL",
+            "level": "begginner",
+            "value": 20,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Gmail",
+            "level": "Master",
+            "value": 80,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Java",
+            "level": "begginner",
+            "value": 30,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "value": 80,
+            "fluency": "Fluent"
+        },
+        {
+            "language": "Spanish",
+            "value": 100,
+            "fluency": "Native speaker"
+        }
+    ],
+    "references": [
+        {
+            "name": "Edwin Bravo",
+            "reference": "Legal representative"
+        }
+    ],
+    "projects": [],
+    "specific": {
+        "basics": {
+            "visaSponsorship": true,
+            "personalDescription": "I am an entrepreneurial person who is passionate about technology. I prepared to work in the manufacturing industry, however I always wanted to focus on the software programming industry."
+        },
+        "dreamJob": {
+            "locations": [
+                {
+                    "name": "Barcelona, Spain"
+                },
+                {
+                    "name": "Madrid, Spain"
+                },
+                {
+                    "name": "Melbourne, Australia"
+                }
+            ],
+            "remoteFrequency": {
+                "frequency": "fullTime",
+                "daysPerWeek": 5
+            }
+        },
+        "currentJob": {
+            "issues": {
+                "z": false,
+                "boring_team": false
+            }
+        },
+        "education": {
+            "studiesLevel": "Tecnologic"
+        },
+        "work": {
+            "contractTypes": ["permanent", "freelance", "internship"],
+            "codingReason": "I started to programing when I realized how easy is learn and absolute free",
+            "searchState": "activelySearching",
+            "experienceYears": 0,
+            "codeExperienceYears": 1,
+            "otherExperienceYears": 5
+        },
+        "sound": {
+            "embedUrl": "https://open.spotify.com/embed/playlist/0Wxmg0lN2SN5SbLZVNlAVt"
+        },
+        "interestedBy": "Typescrip, PHP and Rust."
+    },
+    "resumeCustomization": {
+        "imageHeader": {
+            "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
+            "alt": "Default Banner"
+        },
+        "cardsOrder": [
+            {
+                "type": "basics",
+                "variant": 4
+            },
+            {
+                "type": "skills",
+                "variant": 0
+            },
+            {
+                "type": "dreamjob",
+                "variant": 4
+            },
+            {
+                "type": "projects",
+                "variant": 4
+            },
+            {
+                "type": "experiences",
+                "variant": 4
+            },
+            {
+                "type": "studies",
+                "variant": 4
+            },
+            {
+                "type": "gifs",
+                "variant": 0
+            },
+            {
+                "type": "interestedBy",
+                "variant": 3
+            },
+            {
+                "type": "language",
+                "variant": 4
+            },
+            {
+                "type": "soundtrack",
+                "variant": 4
+            },
+            {
+                "type": "social",
+                "variant": 4
+            }
+        ],
+        "fields": {
+            "work": {
+                "customDateFormat": "YYYY"
+            }
+        }
+    }
+}
